@@ -1,3 +1,7 @@
 Hello Dillon
 Hello Craig, too
+<<<<<<< HEAD
 10-4 buddy! nate over and out-
+=======
+Hello Deep and Nate also.
+>>>>>>> 298453d8b9767aae91c0f1263ecdd8f1414a3708
